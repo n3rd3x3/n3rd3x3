@@ -4,9 +4,10 @@ I enjoy mostly backend, as well as developing and modifying android apps. I most
 I don't really use this GitHub account anymore, for any of my more recent projects, check out my [git website].
 
 ## Find/contact me:
-[[website]] [[twitter]] [[discord]]
+[[website]] [[twitter]] [[discord]] [[email]]
 
 [website]: https://n3rd3x3.xyz
 [twitter]: https://twitter.com/n3rd3x3
 [discord]: https://discord.com/invite/CySU3s3
 [git website]: https://git.n3rd3x3.xyz/nerd
+[email]: mailto:me@n3rd3x3.xyz
