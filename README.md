@@ -13,4 +13,4 @@ I enjoy mostly backend, as well as developing and modifying android apps. I most
 
 ![README Stats](https://github-readme-stats.vercel.app/api?username=n3rd3x3)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rd3x3)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rd3x3)
