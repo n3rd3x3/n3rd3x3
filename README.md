@@ -10,3 +10,7 @@ I enjoy mostly backend, as well as developing and modifying android apps. I most
 [discord]: https://discord.com/invite/CySU3s3
 [git website]: https://git.n3rd3x3.xyz/nerd
 [email]: mailto:me@n3rd3x3.xyz
+
+![README Stats](https://github-readme-stats.vercel.app/api?username=n3rd3x3)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rd3x3)](https://github.com/anuraghazra/github-readme-stats)
