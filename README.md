@@ -1,5 +1,5 @@
 # About me
-Hello! I am Emma, also known as nerd, n3rd, n3rd3x3, etc.
+Hello! I am n3rd3x3, also known as nerd, n3rd, etc.
 I enjoy mostly backend, as well as developing and modifying android apps. I mostly code in C#, node.js, and java.
 
 ## Find/contact me:
