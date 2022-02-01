@@ -17,6 +17,7 @@ I enjoy mostly backend, as well as developing and modifying android apps. I most
 
 #### Currently working on:
 * [FokusApp]
+* [tsukimio magisk modules](https://github.com/tsukimio)
 
 [FokusApp]: https://github.com/FokusApp
 
