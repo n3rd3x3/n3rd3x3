@@ -25,3 +25,6 @@ I enjoy mostly backendand modifying Android 😊. I mostly code in C#, node.js, 
 <a href="https://last.fm/user/n3rd3x3">
 <img src="https://github-readme-lastfm.vercel.app/?username=n3rd3x3" width="450px">
   </a>
+  
+<!-- shhhh -->
+![](https://hit.yhype.me/github/profile?user_id=57784409)
