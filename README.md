@@ -1,7 +1,6 @@
 # About me
 Hello! I am n3rd3x3, also known as nerd, n3rd, etc.
-I enjoy mostly backendand modifying Android <img src="https://user-images.githubusercontent.com/57784409/159374966-637abe65-2fbc-48e1-894b-7b6883e4a4bd.png" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/smiling-face-with-smiling-eyes_1f60a.png" width="15" height="15" />
-. I mostly code in C#, node.js, and java.
+I enjoy mostly backendand modifying Android <img src="https://user-images.githubusercontent.com/57784409/159374966-637abe65-2fbc-48e1-894b-7b6883e4a4bd.png" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/smiling-face-with-smiling-eyes_1f60a.png" width="15" height="15" />. I mostly code in C#, node.js, and java.
 
 ## Find/contact me:
 [[website]] [[twitter]] [[discord]] [[email]] [[keybase]]
