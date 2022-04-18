@@ -11,6 +11,8 @@ I enjoy mostly backend and modifying Android <img src="https://user-images.githu
 [email]: mailto:me@n3rd3x3.xyz
 [keybase]: https://keybase.io/n3rd3x3
 
+![snake animation](https://github.com/n3rd3x3/n3rd3x3/blob/output/github-contribution-grid-snake2.svg)
+
 ## Projects
 
 #### Currently working on:
@@ -21,8 +23,6 @@ I enjoy mostly backend and modifying Android <img src="https://user-images.githu
 [tsukimio magisk modules]: https://github.com/tsukimio
 
 ## Music
-
-![snake animation](https://github.com/n3rd3x3/n3rd3x3/blob/output/github-contribution-grid-snake2.svg)
 
 <a href="https://last.fm/user/n3rd3x3">
 <img src="https://github-readme-lastfm.vercel.app/?username=n3rd3x3" width="450px">
