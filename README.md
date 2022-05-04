@@ -27,6 +27,15 @@ i enjoy mostly backend and modifying android <img src="https://user-images.githu
 [FokusApp]: https://github.com/FokusApp
 [tsukimio magisk modules]: https://github.com/tsukimio
 
+## Operating systems I use:
+
+<a href="https://github.com/topics/android"><img height="50" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"></a>
+<a href="https://github.com/topics/linux"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></a>
+<a href="https://github.com/topics/arch"><img height="50" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png"></a>
+<a href="https://github.com/topics/debian"><img height="50" src="https://www.debian.org/logos/openlogo-nd.svg"></a>
+
+
+
 ## languages & tools i am familiar with:
 
 <a href="https://github.com/topics/nodejs"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
