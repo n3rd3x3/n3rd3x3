@@ -47,11 +47,6 @@ i enjoy mostly backend and modifying android <img src="https://user-images.githu
 <a href="https://github.com/topics/csharp"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a>
 <a href="https://github.com/topics/git"><img height="50" src="https://avatars.githubusercontent.com/u/18133?v=4"></a>
 
-## music
-
-<a href="https://last.fm/user/n3rd3x3">
-<img src="https://github-readme-lastfm.vercel.app/?username=n3rd3x3" width="450px">
-  </a>
   
 <!-- shhhh -->
 ![](https://hit.yhype.me/github/profile?user_id=57784409)
