@@ -10,10 +10,10 @@ i enjoy mostly backend and modifying android <img src="https://user-images.githu
 ## find/contact me:
 [[website]] [[twitter]] [[discord]] [[email]] [[keybase]]
 
-[website]: https://n3rd3x3.xyz
+[website]: https://n3rd3x3.dev
 [twitter]: https://twitter.com/n3rd3x3
 [discord]: https://discord.com/invite/CySU3s3
-[email]: mailto:me@n3rd3x3.xyz
+[email]: mailto:👋@n3rd3x3.dev
 [keybase]: https://keybase.io/n3rd3x3
 
 ![snake animation](https://github.com/n3rd3x3/n3rd3x3/blob/output/github-contribution-grid-snake2.svg)
