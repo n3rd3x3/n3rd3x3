@@ -32,7 +32,6 @@ i enjoy mostly backend and modifying android <img src="https://user-images.githu
 I don't want to be annoying & ask for donations at the top of my readme, so I'll just leave it here. I know that cryptocurrency has many issues, but so does everything else. <br>
  
 monero: `49kiQsdv7xhSEyQBuxHVELDu2S67xNqaMSBCXn9ia3FF3XpRsQb3mYRYCQS7pFkkaM9SKfG8nXQQ3Uj3e2yTis8B6vztbKt` <br> 
-nano: `nano_1mb6bfkz7ahpp9un1zx7qz8pjxfcmoroctgdjb3xa85jdx46frq1pa8y7ig1` <br>
 eth: `0x3831eaF3344c962E30dCfe0202f3Eb6A577AE1d5`
 
   
