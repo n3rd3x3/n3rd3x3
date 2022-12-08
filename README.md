@@ -12,7 +12,7 @@ i enjoy mostly backend and modifying android <img src="https://user-images.githu
 
 [website]: https://n3rd3x3.dev
 [twitter]: https://twitter.com/n3rd3x3
-[email]: mailto:👋@n3rd3x3.dev
+[email]: mailto:hi@nerds.email
 [keybase]: https://keybase.io/n3rd3x3
 
 <br>
