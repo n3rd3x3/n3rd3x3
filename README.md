@@ -19,7 +19,7 @@ i enjoy mostly backend and modifying android <img src="https://user-images.githu
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cs,dart,flutter,go,html,java,js,kotlin,nim,nodejs,react,ts" />
+    <img src="https://skillicons.dev/icons?i=bash,cs,dart,flutter,go,html,java,js,kotlin,rust,nodejs,react,ts" />
   </a>
 </p>
 
