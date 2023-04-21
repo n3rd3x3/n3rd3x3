@@ -11,16 +11,14 @@ i enjoy mostly backend and modifying android <img src="https://user-images.githu
 [[website]] [[twitter]] [[email]] [[keybase]]
 
 [website]: https://n3rd3x3.dev
-[twitter]: https://twitter.com/n3rd3x3
+[mastodon]: https://tsukim.io/@nerd
 [email]: mailto:hi@nerds.email
 [keybase]: https://keybase.io/n3rd3x3
 
 <br>
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cs,dart,flutter,go,html,java,js,kotlin,nodejs,react,rust,ts" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=bash,cs,dart,flutter,go,html,java,js,kotlin,nodejs,react,rust,ts" />
 </p>
 
 <p>
