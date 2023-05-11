@@ -22,9 +22,7 @@ i enjoy mostly backend and modifying android <img src="https://user-images.githu
 </p>
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,figma,gcp,git,idea,kubernetes,linux,mongodb,raspberrypi,redis" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,figma,gcp,git,idea,kubernetes,linux,mongodb,raspberrypi,redis" />
 </p>
 
   
