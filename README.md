@@ -9,16 +9,5 @@
 [email]: mailto:hi@nerds.email
 [keybase]: https://keybase.io/n3rd3x3
 
-<br>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=bash,cs,dart,flutter,go,html,java,js,kotlin,nodejs,react,rust,ts" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,docker,figma,gcp,git,idea,kubernetes,linux,mongodb,raspberrypi,redis" />
-</p>
-
-  
 <!-- shhhh -->
 ![](https://hit.yhype.me/github/profile?user_id=57784409)
