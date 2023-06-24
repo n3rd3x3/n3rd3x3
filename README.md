@@ -2,12 +2,6 @@
  <img width="1000" src="https://raw.githubusercontent.com/n3rd3x3/n3rd3x3/main/banner.svg">
 </div>
 
-
-# about me
-hello! i go by n3rd3x3 online, but just nerd is fine.
-
-i enjoy making backends and hacking systems.
-
 ## find/contact me:
 [[website]] [[email]] [[keybase]]
 
