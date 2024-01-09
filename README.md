@@ -3,11 +3,10 @@
 </div>
 
 ## find/contact me:
-[[website]] [[email]] [[matrix]]
+[[website]] [[email]]
 
 [website]: https://n3rd3x3.dev
 [email]: mailto:hi@nerds.email
-[matrix]: https://matrix.to/#/@nerd:tsukim.io
 
 <!-- shhhh -->
 ![](https://hit.yhype.me/github/profile?user_id=57784409)
